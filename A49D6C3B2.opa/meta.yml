@@ -1,0 +1,20 @@
+id: A49D6C3B2
+title: Toh_197-The_Nectar_of_Speech-v2
+type: translation
+pechas:
+- IE8A8552B
+- I66691FA8
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-061-017
+  eft-text-version: 1.18.4 2020
+  title: Toh_197-The_Nectar_of_Speech-v2
+alignment_to_base:
+  IE8A8552B/6AA1: A367
+  I66691FA8/4478: A367
